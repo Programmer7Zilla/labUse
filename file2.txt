@@ -1,2 +1,3 @@
 check to file 2
 
+checking the code for the stash
