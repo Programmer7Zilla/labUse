@@ -1,1 +1,2 @@
-1Checking
+This is the first file to check the git account to my personal github profile.
+This is a test file.
